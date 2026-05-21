@@ -1,0 +1,12 @@
+.Rhistory
+.RData
+.Ruserdata
+
+renv/library/
+renv/staging/
+
+**pycache**/
+.venv/
+
+.DS_Store
+Thumbs.db
